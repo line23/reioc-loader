@@ -1,0 +1,19 @@
+{
+  "name": "reioc-loader",
+  "version": "0.0.1",
+  "description": "lightweight IoC container for Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/line23/reioc-loader.git"
+  },
+  "author": "Niki Kushlev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/line23/reioc-loader/issues"
+  },
+  "homepage": "https://github.com/line23/reioc-loader"
+}
