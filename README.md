@@ -12,9 +12,9 @@ First you need to configure reioc-loader with 'rootPath' and 'namespaces'. This 
 ```javascript
 var config = {
 	rootPath: __dirname,
-  namespaces:{
-    // Namespace: { path: path/to/modules/folder }
-    services: { path: 'services/test'}
+	namespaces:{
+		// Namespace: { path: path/to/modules/folder }
+		services: { path: 'services/test'}
   }
 };
 require('reioc-loader').config(config);
